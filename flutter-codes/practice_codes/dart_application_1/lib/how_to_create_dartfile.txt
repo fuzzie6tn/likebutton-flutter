@@ -1,0 +1,11 @@
+step1:
+dart create <project_name>
+
+step2:
+cd project_name
+
+step3:
+code .
+
+step4:
+To check the main dart file go to bin/project_name.dart and edit your code. 
