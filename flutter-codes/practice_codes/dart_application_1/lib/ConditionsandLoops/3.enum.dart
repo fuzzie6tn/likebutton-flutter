@@ -10,7 +10,7 @@ void main() {
       break;
 
     case Weather.sun:
-      print("get you glasses");
+      print("get you glasses \n \n");
       break;
     case Weather.rainy:
       print("Get your ambrella");
